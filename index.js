@@ -1,6 +1,6 @@
 const express = require('express')
 const path = require('path')
-const { dirname } = require('path/posix')
+
 
 const app = express()
 
