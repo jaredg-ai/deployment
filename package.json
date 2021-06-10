@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jaredg-ai/deployment/issues"
   },
-  "homepage": "https://github.com/jaredg-ai/deployment#readme"
+  "homepage": "https://github.com/jaredg-ai/deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
